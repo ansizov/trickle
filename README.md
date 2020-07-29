@@ -1,7 +1,7 @@
 # Trickle
 
 `Trickle` help us build `GitLab CI` projects. 
-We have a lot of microservices and write it in one language. 
+We have a lot of microservices and write them in one language. 
 So all our `.gitlab-ci.yaml` are equal. 
 This project get some arguments by http and build 
 `yaml` template for microservice. We use Jinja2 as template engine.
